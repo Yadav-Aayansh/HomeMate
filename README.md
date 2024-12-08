@@ -48,14 +48,14 @@ cd HomeMate
 ```
 
 ### 3. Create & Activate Virtual Environment
-- #### A. Create Virtual Environment
+- #### Create Virtual Environment
   
 ```bash
 cd server
 python -m venv venv
 ```
 
-- #### B. Activate Virtual Environment
+- #### Activate Virtual Environment
 For Linux/macOS:
 ```
 source venv/bin/activate
