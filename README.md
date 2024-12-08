@@ -39,27 +39,69 @@ A multi-user platform offering comprehensive household services, connecting cust
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Yadav-Aayansh/NoctiWave.git
+git clone https://github.com/Yadav-Aayansh/HomeMate.git
 ```
+
 ### 2. Change the working directory
 ```bash
-cd NoctiWave
+cd HomeMate
 ```
 
-### 3. Create a Virtual Environment
+### 3. Setup Backend (Server)
+
+#### a. Create a Virtual Environment
 ```bash
-python -m venv env
+cd server
+python -m venv venv
 ```
 
-### 4. Install Required Package Dependencies
+#### b. Install Required Backend Package Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5. Run the App
+### 4. Setup Frontend (Client)
+
+#### a. Install Frontend Dependencies
 ```bash
+cd ../client
+npm install
+```
+
+### 5. Setup Redis
+Make sure Redis is installed and running. You can start Redis using:
+```bash
+redis-server
+```
+
+### 6. Run Celery Worker
+In a new terminal window, run the Celery worker:
+```bash
+cd ../server
+celery -A app.celery worker --loglevel=info
+```
+
+### 7. Run Celery Beat
+In another terminal window, run the Celery Beat scheduler:
+```bash
+cd ../server
+celery -A app.celery beat --loglevel=info
+```
+
+### 8. Run the Backend
+In the main terminal, run the Flask app:
+```bash
+cd ../server
 python run.py
 ```
+
+### 9. Run the Frontend Development Server
+In the client directory, run the Vite server:
+```bash
+cd ../client
+npm run dev
+```
+
 🌟 You are all set!
 <hr>
 
