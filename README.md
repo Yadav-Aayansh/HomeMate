@@ -2,7 +2,7 @@
 A multi-user platform offering comprehensive household services, connecting customers with verified service professionals, managed by an admin using robust backend operations and role-based access control.
 
 ## 🚀 Preview
-[![Watch the video](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate13.jpeg)](https://youtu.be/uhcoqsnWUHc?si=kB4CqK7C0WLHVuGh)
+[![Watch the video](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate13.png)](https://youtu.be/uhcoqsnWUHc?si=kB4CqK7C0WLHVuGh)
 
 <h3 align="center">
   Demo URL (Please, Open in Desktop):
