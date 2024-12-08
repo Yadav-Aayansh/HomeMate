@@ -48,7 +48,7 @@ cd HomeMate
 ```
 
 ### 3. Create & Activate Virtual Environment
-  <p style="margin-left: 20px;">#### A. Create Virtual Environment</p>
+  ####   A. Create Virtual Environment
   
 ```bash
 cd server
