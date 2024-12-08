@@ -49,7 +49,7 @@ cd HomeMate
 
 ### 3. Setup Backend (Server)
 
-#### i) Create a Virtual Environment
+#### 1️⃣ Create a Virtual Environment
 ```bash
 cd server
 python -m venv venv
