@@ -22,7 +22,6 @@ A multi-user platform offering comprehensive household services, connecting cust
 - **Redis**: Message broker and caching layer.
 - **WeasyPrint**: Generates PDFs and prints HTML to documents.
 - **Razorpay**: Integrates payment gateway.
--
 
 ### Database
 - **SQLite**: A lightweight database.
