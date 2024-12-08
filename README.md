@@ -56,11 +56,11 @@ python -m venv venv
 
 For Linux/macOS:
 ```
-source env/bin/activate
+source venv/bin/activate
 ```
 For Windows:
 ```
-env\\Scripts\\activate
+venv\\Scripts\\activate
 ```
 
 ### 4. Install Required Backend Package Dependencies
