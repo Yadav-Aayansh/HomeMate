@@ -14,13 +14,15 @@ A multi-user platform offering comprehensive household services, connecting cust
 
 ### Backend
 - **Flask**: A web framework.
-- **Jinja2**: For rendering templates.
 - **Flask_SQLAlchemy**: Manages database operations.
-- **Flask_Bcrypt**: Secures passwords with hashing.
+- **Flask-JWT-Extended**: For handling JSON Web Tokens.
 - **Flask_RESTful**: Simplifies creating REST APIs.
-- **Flask_WTF**: Handles forms easily.
-- **Requests**: For making HTTP requests.
-- **Email-Validators**: Ensures email validity.
+- **Flask-Caching**: Adds caching support.
+- **Celery**: Handles asynchronous tasks.
+- **Redis**: Message broker and caching layer.
+- **WeasyPrint**: Generates PDFs and prints HTML to documents.
+- **Razorpay**: Integrates payment gateway.
+-
 
 ### Database
 - **SQLite**: A lightweight database.
@@ -29,6 +31,8 @@ A multi-user platform offering comprehensive household services, connecting cust
 - **HTML**: For structuring web pages.
 - **CSS**: Styles web pages.
 - **JavaScript**: Adds interactivity.
+- **VueJS**: Builds dynamic, reactive user interfaces.
+- **Vite**: Provides fast development environment for VueJS.
 - **Bootstrap**: For responsive and mobile-first design.
 - **ChartJS**: Visualizes data through charts.
 
