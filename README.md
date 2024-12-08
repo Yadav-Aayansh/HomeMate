@@ -55,6 +55,17 @@ cd server
 python -m venv venv
 ```
 
+For Linux/macOS:
+
+```
+source env/bin/activate
+```
+For Windows:
+
+```
+env\\Scripts\\activate
+```
+
 #### b. Install Required Backend Package Dependencies
 ```bash
 pip install -r requirements.txt
