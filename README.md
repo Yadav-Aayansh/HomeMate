@@ -49,31 +49,29 @@ cd HomeMate
 
 ### 3. Setup Backend (Server)
 
-#### a. Create a Virtual Environment
+#### i) Create a Virtual Environment
 ```bash
 cd server
 python -m venv venv
 ```
-
+#### ii) Activate Virtual Environment
 For Linux/macOS:
-
 ```
 source env/bin/activate
 ```
 For Windows:
-
 ```
 env\\Scripts\\activate
 ```
 
-#### b. Install Required Backend Package Dependencies
+#### iii). Install Required Backend Package Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 4. Setup Frontend (Client)
 
-#### a. Install Frontend Dependencies
+#### i). Install Frontend Dependencies
 ```bash
 cd ../client
 npm install
