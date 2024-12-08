@@ -47,14 +47,13 @@ git clone https://github.com/Yadav-Aayansh/HomeMate.git
 cd HomeMate
 ```
 
-### 3. Setup Backend (Server)
+### 3. Create & Activate Virtual Environment
 
-#### 1️⃣ Create a Virtual Environment
 ```bash
 cd server
 python -m venv venv
 ```
-#### ii) Activate Virtual Environment
+
 For Linux/macOS:
 ```
 source env/bin/activate
@@ -64,52 +63,50 @@ For Windows:
 env\\Scripts\\activate
 ```
 
-#### iii). Install Required Backend Package Dependencies
+### 4. Install Required Backend Package Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Setup Frontend (Client)
+### 5. Run the Backend
+```bash
+python run.py
+```
 
-#### i). Install Frontend Dependencies
+### 6. Install Frontend Dependencies
+In a new terminal window, install dependencies:
 ```bash
 cd ../client
 npm install
 ```
 
-### 5. Setup Redis
+### 7. Run the Frontend Development Server
+```bash
+npm run dev
+```
+
+### 8. Setup Redis
 Make sure Redis is installed and running. You can start Redis using:
 ```bash
 redis-server
 ```
 
-### 6. Run Celery Worker
+### 9. Run Celery Worker
 In a new terminal window, run the Celery worker:
 ```bash
 cd ../server
 celery -A app.celery worker --loglevel=info
 ```
 
-### 7. Run Celery Beat
+### 10. Run Celery Beat
 In another terminal window, run the Celery Beat scheduler:
 ```bash
-cd ../server
 celery -A app.celery beat --loglevel=info
 ```
 
-### 8. Run the Backend
-In the main terminal, run the Flask app:
-```bash
-cd ../server
-python run.py
-```
 
-### 9. Run the Frontend Development Server
-In the client directory, run the Vite server:
-```bash
-cd ../client
-npm run dev
-```
+
+
 
 🌟 You are all set!
 <hr>
