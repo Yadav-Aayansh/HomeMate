@@ -76,7 +76,7 @@ python run.py
 ```
 
 ### 6. Install Frontend Dependencies
-In a new terminal window, install dependencies:
+In a new terminal window, install frontend dependencies:
 ```bash
 cd ../client
 npm install
@@ -106,22 +106,22 @@ In another terminal window, run the Celery Beat scheduler:
 celery -A app.celery beat --loglevel=info
 ```
 
-
-
-
-
 🌟 You are all set!
 <hr>
 
 ## 📸 Screenshots
-![Admin Dashboard](https://github.com/user-attachments/assets/a15c6960-b2fc-47ee-b955-8bd140becf6d)
-![Admin Dashboard](https://github.com/user-attachments/assets/21741f0c-46c6-4e6e-b8bb-8a74408aed1f)
-![Admin Dashboard](https://github.com/user-attachments/assets/a498c27b-9a01-4861-8d19-7cdf1a3a9339)
-![Influencer Dashboard](https://github.com/user-attachments/assets/117bf2d7-8110-455b-8c6c-b204eebe9803)
-![Influencer Dashboard](https://github.com/user-attachments/assets/7b15a81f-67c6-4174-8b91-aaa17d912766)
-![Sponsor Dashboard](https://github.com/user-attachments/assets/ba875261-2679-480c-8fc8-76b36164b357)
-![Sponsor Dashboard](https://github.com/user-attachments/assets/15b43391-7ffc-4e96-a7a3-8544a9d80ebc)
-![Sponsor Dashboard](https://github.com/user-attachments/assets/f3df72ad-d586-4c92-ba4e-be166ccd23e8)
+![HomeMate1](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate1.png)
+![HomeMate2](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate2.png)
+![HomeMate3](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate3.png)
+![HomeMate4](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate4.png)
+![HomeMate5](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate5.png)
+![HomeMate6](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate6.png)
+![HomeMate7](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate7.png)
+![HomeMate8](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate8.png)
+![HomeMate9](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate9.png)
+![HomeMate10](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate10.png)
+![HomeMate11](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate11.png)
+![HomeMate12](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate12.png)
 
 <hr>
 <h3 align="center">
