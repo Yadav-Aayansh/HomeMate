@@ -1,0 +1,270 @@
+/* Font Imports */
+
+@font-face {
+    font-family: 'KG';
+    src: url('../assets/font/KGBlankSpaceSketch.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../assets/font/Gilroy-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../assets/font/Gilroy-Bold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../assets/font/Gilroy-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body {
+    font-family: 'Gilroy', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    /* min-height: 100vh; */
+    background: rgb(239, 240, 241);
+    /* 214, 212, 238, 1 */
+    /* background: linear-gradient(315deg, rgba(255, 222, 233, 0.2) 0%, rgba(181, 255, 252, 0.2) 100%); */
+    position: relative;
+    /* background-image: url('./curve2.svg');*/
+    /* background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d0233e58852705.5a0bdcee33b00.jpg'); */
+    /* background-size: cover;   */
+    /* background-repeat: repeat-y;   */
+    /* background-position: center; */
+    /* overflow-y: auto; */
+}
+
+/* Header Styles */
+h1 {
+    font-weight: 800;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+h2 {
+    font-weight: 800;
+    font-size: 2em;
+    margin: 0;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 1.75em;
+    margin: 0;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 1.25em;
+    margin: 0;
+}
+
+h6 {
+    font-weight: 400;
+    font-size: 1.1em;
+    margin: 0;
+}
+
+
+/* Paragraph Styles */
+p {
+    font-weight: 400;
+    font-size: 1.1em;
+    margin: 0;
+}
+
+.kg-text {
+    font-weight: 400;
+    font-size: 2em;
+    margin: 0;
+    font-family: 'KG';
+}
+
+.kg-text2 {
+    font-weight: 400;
+    font-size: 1.5em;
+    margin: 0;
+    font-family: 'KG';
+}
+
+.kg-text3 {
+    font-weight: 400;
+    font-size: 1em;
+    margin: 0;
+    font-family: 'KG';
+}
+
+.kg-text-logo {
+    font-weight: 400;
+    font-size: 1.2em;
+    margin: 0;
+    font-family: 'KG';
+}
+
+/* Horizontal Barz */
+.horizontal-bar {
+    width: 25px;
+    height: 6px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.bar-primary {
+    background-color: rgb(109, 74, 255);
+}
+
+.bar-secondary {
+    background-color: #6c757d;
+}
+
+.cus-card {
+    padding: 20px;
+    background: linear-gradient(315deg, rgba(255, 222, 233, 0.2) 0%, rgba(181, 255, 252, 0.2) 100%);
+    border-radius: 20px;
+    border: 1px rgb(191, 194, 193) solid;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    position: relative;
+
+}
+
+.custom-card {
+    padding: 20px;
+    background: linear-gradient(315deg, rgba(255, 222, 233, 0.2) 0%, rgba(181, 255, 252, 0.2) 100%);
+    border-radius: 20px;
+    border: 1px rgb(191, 194, 193) solid;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    position: relative;
+    width: 450px;
+}
+
+.cus-card2 {
+    padding: 20px;
+    background: linear-gradient(315deg, rgba(255, 222, 233, 0.2) 0%, rgba(181, 255, 252, 0.2) 100%);
+    border-radius: 20px;
+    /* border: 5px solid white;  */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cus-card3 {
+    background: linear-gradient(315deg, rgba(255, 222, 233, 0.2) 0%, rgba(181, 255, 252, 0.2) 100%);
+    border-radius: 20px;
+    /* box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); */
+    border: 1px rgb(191, 194, 193) solid;
+    position: relative;
+    background-color: rgb(239, 244, 245);
+
+}
+
+.card-one {
+    padding: 3px;
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid rgb(149, 150, 151);
+    position: relative;
+  }
+
+.my-cus-input-baap {
+    border-radius: 12px;
+    background-color: white;
+}
+
+.my-cus-input-baap .icon {
+    top: 22%;
+}
+
+.my-cus-input {
+    border-radius: 12px;
+    padding: 4px;
+    padding-left: 10px;
+    outline: none;
+    border-color: transparent;
+}
+
+
+
+.back-button {
+    border: 1px solid rgb(191, 194, 193);
+    border-radius: 10px;
+    padding-right: 7px;
+    cursor: pointer;
+}
+
+.back-button2 {
+    font-size: x-large;
+    border: 1px solid rgb(51, 53, 52);
+    border-radius: 10px;
+    padding-right: 7px;
+    cursor: pointer;
+  }
+
+/* File Uploads Design */
+.file-name-container {
+    width: 345px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: #f0f4ff;
+    border: 1px solid #c0d4ff;
+    border-radius: 8px;
+    padding: 10px 16px;
+    margin-top: 10px;
+    overflow: hidden;
+    /* Prevent overflow */
+}
+
+.file-name {
+    font-weight: 600;
+    font-size: 16px;
+    color: #333;
+    margin-right: auto;
+    white-space: nowrap;
+    /* Prevent line breaks */
+    overflow: hidden;
+    /* Prevent overflow */
+    text-overflow: ellipsis;
+    /* Add ellipsis for overflowing text */
+}
+
+.remove-file-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.remove-file-btn:hover {
+    background-color: #c82333;
+}
+
+.text-homemate {
+    color: rgb(109, 74, 255)
+}
