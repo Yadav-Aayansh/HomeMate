@@ -97,13 +97,13 @@ redis-server
 In a new terminal window, run the Celery worker:
 ```bash
 cd ../server
-celery -A app.celery worker --loglevel=info
+celery -A run.celery worker --loglevel=info
 ```
 
 ### 10. Run Celery Beat
 In another terminal window, run the Celery Beat scheduler:
 ```bash
-celery -A app.celery beat --loglevel=info
+celery -A run.celery beat --loglevel=info
 ```
 
 🌟 You are all set!
