@@ -12,14 +12,37 @@ A multi-user platform offering comprehensive household services, connecting cust
 
 <div align="center">
 
-<pre>
-<strong>Test Users</strong>
-<strong>Admin -</strong> Noctivagous | 12345678
-<strong>Customer -</strong> Billy_Butcher | 12345678
-<strong>Professional -</strong> Aayansh | 12345678
-</pre>
+<h3><strong>🚀 Test Users</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Role</th>
+      <th align="left">Username</th>
+      <th align="left">Password</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Admin</strong></td>
+      <td><code>Noctivagous</code></td>
+      <td><code>12345678</code></td>
+    </tr>
+    <tr>
+      <td><strong>Customer</strong></td>
+      <td><code>Billy_Butcher</code></td>
+      <td><code>12345678</code></td>
+    </tr>
+    <tr>
+      <td><strong>Professional</strong></td>
+      <td><code>Aayansh</code></td>
+      <td><code>12345678</code></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 
 ## 💻 Built with
