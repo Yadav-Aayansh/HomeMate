@@ -8,10 +8,10 @@ A multi-user platform offering comprehensive household services, connecting cust
   Demo URL (Please, Open in Desktop):
   <br>
   <a href="https://homemate-three.vercel.app" target="_blank" > https://homemate-three.vercel.app </a>
-  Test Users:
-  Customer - billy_butcher | 12345678
-  Professional - aayansh | 12345678
-  Admin - noctivagous | 12345678
+  **Test Users**
+  - Customer - billy_butcher | 12345678
+  - Professional - aayansh | 12345678
+  - Admin - noctivagous | 12345678
 </h3>
 
 ## 💻 Built with
