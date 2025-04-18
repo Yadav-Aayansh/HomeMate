@@ -7,7 +7,7 @@ A multi-user platform offering comprehensive household services, connecting cust
 <h3 align="center">
   Demo URL (Please, Open in Desktop):
   <br>
-  Coming Soon...
+  <a href='https://homemate-three.vercel.app'> https://homemate-three.vercel.app </a>
 </h3>
 
 ## 💻 Built with
