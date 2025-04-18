@@ -12,7 +12,7 @@ A multi-user platform offering comprehensive household services, connecting cust
 
 <div align="center">
 
-<h3><strong>🚀 Test Users</strong></h3>
+<h3><strong>Test Users</strong></h3>
 
 <table>
   <thead>
