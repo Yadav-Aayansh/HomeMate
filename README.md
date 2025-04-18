@@ -11,11 +11,16 @@ A multi-user platform offering comprehensive household services, connecting cust
 </h3>
 
 <div align="center">
-    <strong> Test Users </strong>
-       <strong> Admin - </strong> Noctivagous | 12345678
-       <strong> Customer - </strong> Billy_Butcher | 12345678
-       <strong> Professional - </strong> Aayansh | 12345678
+
+<pre>
+<strong>Test Users</strong>
+<strong>Admin -</strong> Noctivagous | 12345678
+<strong>Customer -</strong> Billy_Butcher | 12345678
+<strong>Professional -</strong> Aayansh | 12345678
+</pre>
+
 </div>
+
 
 ## 💻 Built with
 
