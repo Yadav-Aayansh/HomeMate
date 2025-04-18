@@ -11,10 +11,12 @@ A multi-user platform offering comprehensive household services, connecting cust
 </h3>
 
 <div align="center">
-    <strong align="left"> Test Users </strong>
-      <li align="left"> Customer - billy_butcher | 12345678 </li> 
-      <li align="left"> Professional - aayansh | 12345678 </li> 
-      <li align="left"> Admin - noctivagous | 12345678 </li>
+    <strong> Test Users </strong>
+      <div align="left">
+        <li> Customer - billy_butcher | 12345678 </li> 
+        <li> Professional - aayansh | 12345678 </li> 
+        <li> Admin - noctivagous | 12345678 </li>
+      </div>
 </div>
 
 ## 💻 Built with
