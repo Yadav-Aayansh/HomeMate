@@ -10,11 +10,13 @@ A multi-user platform offering comprehensive household services, connecting cust
   <a href="the-homemate.vercel.app" target="_blank" > the-homemate.vercel.app </a>
 </h3>
 
-<div align="left">
-  <strong> Test Users </strong>
-    <li> Customer - billy_butcher | 12345678 </li> 
-    <li> Professional - aayansh | 12345678 </li> 
-    <li> Admin - noctivagous | 12345678 </li>
+<div align="center">
+  <div align="left">
+    <strong> Test Users </strong>
+      <li> Customer - billy_butcher | 12345678 </li> 
+      <li> Professional - aayansh | 12345678 </li> 
+      <li> Admin - noctivagous | 12345678 </li>
+  </div>
 </div>
 
 ## 💻 Built with
