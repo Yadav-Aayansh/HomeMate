@@ -160,5 +160,5 @@ celery -A run.celery beat --loglevel=info
 
 <hr>
 <h3 align="center">
-Thank You ❤️
+Thank You 🫡
 </h3>
