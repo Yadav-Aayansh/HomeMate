@@ -2,7 +2,7 @@
 A multi-user platform offering comprehensive household services, connecting customers with verified service professionals, managed by an admin using robust backend operations and role-based access control.
 
 ## 🚀 Preview
-[![Watch the video](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate13.png)](https://youtu.be/uhcoqsnWUHc?si=kB4CqK7C0WLHVuGh)
+[![Watch the video](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate13.png)](https://youtu.be/uhcoqsnWUHc?si=kB4CqK7C0WLHVuGh)
 
 <h3 align="center">
   Demo URL (Please, Open in Desktop):
@@ -145,18 +145,18 @@ celery -A run.celery beat --loglevel=info
 <hr>
 
 ## 📸 Screenshots
-![HomeMate1](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate1.png)
-![HomeMate2](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate2.png)
-![HomeMate3](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate3.png)
-![HomeMate4](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate4.png)
-![HomeMate5](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate5.png)
-![HomeMate6](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate6.png)
-![HomeMate7](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate7.png)
-![HomeMate8](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate8.png)
-![HomeMate9](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate9.png)
-![HomeMate10](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate10.png)
-![HomeMate11](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate11.png)
-![HomeMate12](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate12.png)
+![HomeMate1](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate1.png)
+![HomeMate2](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate2.png)
+![HomeMate3](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate3.png)
+![HomeMate4](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate4.png)
+![HomeMate5](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate5.png)
+![HomeMate6](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate6.png)
+![HomeMate7](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate7.png)
+![HomeMate8](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate8.png)
+![HomeMate9](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate9.png)
+![HomeMate10](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate10.png)
+![HomeMate11](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate11.png)
+![HomeMate12](https://github.com/Yadav-Aayansh/Assets/blob/main/HomeMate/HomeMate12.png)
 
 <hr>
 <h3 align="center">
